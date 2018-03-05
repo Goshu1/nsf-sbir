@@ -282,6 +282,8 @@
     - name: NGD Systems, Inc.
     - name: AppScale Systems, Inc.
     - name: Bay Labs, Inc.
+    - name: Runtime Verification, Inc.
+    - name: SensorHound, Inc.
 
 - topic: Internet of Things (I)
   permalink: /topics/internet-of-things/
@@ -301,8 +303,6 @@
     - IoT Integrated Systems (IoT4)
     - IoT IT, Cloud, Big Data, and Security and Privacy (also see IT portfolio topics)
   companies:
-    - name: Runtime Verification, Inc.
-    - name: SensorHound, Inc.
     - name: Arable Labs, Inc.
     - name: One Million Metrics Corp
     - name: IOTAS, Inc.
